@@ -12,3 +12,4 @@ C:\Users\杨卓\Desktop\CsharpProjects\TestProject\TestProject\obj\Debug\net8.0\
 C:\Users\杨卓\Desktop\CsharpProjects\TestProject\TestProject\obj\Debug\net8.0\TestProject.pdb
 C:\Users\杨卓\Desktop\CsharpProjects\TestProject\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
 C:\Users\杨卓\Desktop\CsharpProjects\TestProject\TestProject\obj\Debug\net8.0\ref\TestProject.dll
+C:\Users\杨卓\Desktop\CsharpProjects\TestProject\TestProject\obj\Debug\net8.0\TestProject.sourcelink.json
